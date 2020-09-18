@@ -32,7 +32,8 @@ public class CountInterceptor implements ProducerInterceptor<String,String> {
         System.out.println("sucess: "+sucessCount);
         System.out.println("faild: "+faildCount);
     }
-//配置方法
+//配置方法hahahh
+//AFJAJKLFLJAL
     @Override
     public void configure(Map<String, ?> map) {
 
